@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Datasets and large files
+data/
+models/
+*.zip
+*.tar
+*.gz
+*.pt
+*.pth
+
+# VS Code settings
+.vscode/

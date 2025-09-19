@@ -1,0 +1,19 @@
+torch
+torchvision
+torchaudio
+numpy
+pandas
+tqdm
+matplotlib
+opencv-python
+scikit-learn
+ultralytics==8.*      # YOLOv8
+transformers          # BERT
+datasets
+seqeval
+git+https://github.com/facebookresearch/segment-anything.git  # SAM
+ftfy
+regex
+open_clip_torch
+jupyter
+notebook
